@@ -1,0 +1,19 @@
+[
+  {
+    continent: 'North-America',
+    country: 'USA',
+    population: 332172103,
+    cases: {
+      new: '+105983',
+      active: 9777591,
+      critical: 22406,
+      recovered: 17268517,
+      '1M_pop': '82848',
+      total: 27519636
+    },
+    deaths: { new: '+2730', '1M_pop': '1426', total: 473528 },
+    tests: { '1M_pop': '970567', total: 322395403 },
+    day: '2021-02-07',
+    time: '2021-02-07T01:45:04+00:00'
+  }
+]

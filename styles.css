@@ -1,0 +1,17 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 0px 0px;
+    grid-template-areas:
+      "header header header"
+      "cases_new cases_active cases_total"
+      "footer footer footer";
+  }
+  .header { grid-area: header; }
+  .cases_new { grid-area: cases_new; }
+  .cases_active { grid-area: cases_active; }
+  .cases_total { grid-area: cases_total; }
+  .footer { grid-area: footer; }
+
+  .header {text-align: center;}

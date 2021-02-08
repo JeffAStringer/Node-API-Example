@@ -1,0 +1,22 @@
+{
+  "name": "node-api-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robin-LCA/Node-API-Example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robin-LCA/Node-API-Example/issues"
+  },
+  "homepage": "https://github.com/Robin-LCA/Node-API-Example#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
